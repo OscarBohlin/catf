@@ -1,4 +1,4 @@
-# AOSP target file diff
+# compare AOSP target files - catf
 
 A Python script for comparing two AOSP target files.
 

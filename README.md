@@ -7,9 +7,9 @@ A Python script for comparing two AOSP target files.
 
 This was developed and tested using python version 3.8.10.
 
-The scripts requires the [Android boot image editor](https://github.com/Android_boot_image_editor) program to compare `.img` files. Dowload [the zip fil](https://github.com/cfig/Android_boot_image_editor/releases) file and unpack it, default path for this tool installation is in the home directory but it can be
-specified to elsewhere. Cloning the repository will not work for computers without internet access since it needs
-to download certain gradle dependencies.
+The scripts requires the [Android boot image editor](https://github.com/Android_boot_image_editor) program to compare `.img` files. Dowload [the zip fil](https://github.com/cfig/Android_boot_image_editor/releases) and unpack it, default path for this tool installation is in the home directory but it can be
+specified to elsewhere. Cloning its repository will not work for computers without internet access since it needs
+to download certain gradle dependencies on first run.
 
 Following packages are required by the script and Andoird boot image editor on Ubuntu:
 
